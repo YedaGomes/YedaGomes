@@ -1,5 +1,6 @@
-
-🔭 Sou estudante de ADS
+<div align="center">
+  <img src="ola.png" width="850">
+</div>
 
 <br>
 
