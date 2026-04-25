@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="ola.png" width="850">
+  <img src="ola.png" width="700">
 </div>
-
-<br>
 
 ### Sobre Mim
   Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na UNIP. 
