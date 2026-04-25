@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ola.png" width="700">
+  <img src="ola.png" width="600">
 </div>
 
 ### Sobre Mim
