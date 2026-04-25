@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="olayeda.png" width="100%">
-</div>
 
 🔭 Sou estudante de ADS
 
