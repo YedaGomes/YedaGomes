@@ -18,9 +18,9 @@
   </tr>
 </table>
 
-<br>
+#
 
-### Estatísticas:
+### Estatísticas
 <img src="gif_yeda.gif" width="120" align="right">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yedagomes&show_icons=true&theme=dracula)
@@ -32,3 +32,11 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/yeda-gomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:yedagomes639@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YedaGomes/YedaGomes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YedaGomes/YedaGomes/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YedaGomes/YedaGomes/output/github-contribution-grid-snake.svg">
+</picture>
