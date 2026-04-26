@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ola.png" width="600">
+  <img src="olayedagif.gif" width="500">
 </div>
 
 ### Sobre Mim
@@ -8,13 +8,15 @@
   Estou constantemente aprimorando meus conhecimentos em Engenharia de Software e Qualidade de Código.
 
 ### Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-</div>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL" width="40" height="40" /></td>
+  </tr>
+</table>
 
 <br>
 
@@ -25,6 +27,8 @@
 
 
 <hr>
-  <a href="https://www.linkedin.com/in/yeda-gomes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
+### Contato
+<div align="left">
+  <a href="https://www.linkedin.com/in/yeda-gomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:yedagomes639@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
