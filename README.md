@@ -23,7 +23,8 @@
 ### Estatísticas
 <img src="gif_yeda.gif" width="120" align="right">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yedagomes&show_icons=true&theme=dracula)
+
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YedaGomes&theme=dracula&show_icons=true)
 
 
 <hr>
