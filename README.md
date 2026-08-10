@@ -3,7 +3,7 @@
 </div>
 
 ### Sobre Mim
-  Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na UNIP. 
+  Atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na UNIP. 
   Gosto de colocar meu conhecimento em prática para criar e solucionar problemas. Foco em desenvolvimento Full-Stack (C# e Web). 
   Estou aprimorando meus conhecimentos em ferramentas a fim de me desenvolver mais a cada dia, e para melhor Qualidade de Código.
 
